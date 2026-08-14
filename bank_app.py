@@ -9,7 +9,7 @@ from decimal import Decimal
 DB_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'Dkaustav@392',
+    'password': 'DMistry@126',
     'database': 'bankdb'
 }
 

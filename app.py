@@ -168,7 +168,7 @@ def new_account_page():
   <form method="POST" action="/new_account">
     <div class="form-row">
       <div class="form-group"><label>Full Name *</label>
-        <input type="text" name="name" placeholder="e.g. Kaustav Das" required></div>
+        <input type="text" name="name" placeholder="e.g. Debanjan Mistry" required></div>
       <div class="form-group"><label>Date of Birth *</label>
         <input type="date" name="dob" required></div>
     </div>

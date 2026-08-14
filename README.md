@@ -65,6 +65,6 @@ bank_app_dist/
 | Host      | localhost       |
 | Database  | bankdb         |
 | User      | root           |
-| Password  | Dkaustav@392   |
+| Password  | DMistry@126   |
 
 To change these, edit the `DB_CONFIG` dictionary at the top of `bank_app.py`.
